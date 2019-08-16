@@ -1,0 +1,12 @@
+{
+	"resources": [
+		{
+			"name":"Name 1",
+			"url":"\/url"
+		},
+		{
+			"name":"Name 2",
+			"url":"\/url"
+		}
+	]
+}
